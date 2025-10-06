@@ -31,3 +31,20 @@ I also (stole) acquired a ton of screws and standoffs from my robotics class, so
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE5LCJwdXIiOiJibG9iX2lkIn19--3bd4fef557c804f04050a70fa1b6feb854de2eee/image.png)
   
 
+## 10/6/2025 - Planning Parts (ill do the actual schematic later fr fr)  
+
+Today I worked on the schematic for the keyboard.
+I mainly want the microcontroller to be a RP2040 Raspberry Pi Pico, since I already used it for my other keyboard projects (check it [out](https://github.com/geg-tech/biblicallyaccuratekeyboard) and star it now pls). I _kinda_ don't like the green color for it, but I'll try to find a copy of it in a different color on Aliexpress.
+
+Since I'm going with a 75% keyboard, I'll need 82 keys in total. I plan on having two knobs on my keeb, so I'll be replacing one of the keys (top right one that's not del) with a knob, as well as an extra one on the side, bringing up my total to 83.
+* i know i said i didn't want extra space on the outside but whatever 
+
+I'll also add a screen and (hopefully) some RGB
+* I say hopefully since finding the LEDs I want for my keeb (SK6812 mini) on aliexpress with a relatively trustworthy seller will be hard (at least from my experience)
+* I _could_ get away with using full size RGB LEDs, but they're gonna be harder to fit on the PCB
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzY1LCJwdXIiOiJibG9iX2lkIn19--d6e3d44f343de3ae55e24d52bf96d1ce60852b20/image.png)
+
+
+  
+
