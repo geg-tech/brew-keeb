@@ -12,5 +12,23 @@ This keyboard contains:
 * integrated USB hub, supporting 4 connecting devices!
 * awesome sauce silkscreen!
 
-I'm overall very happy how this project turned out. Art-wise, this is my favorite project so far, with the PCB having 100% original silkscreen designs with the back paying homage to my previous projects. 
+I'm overall very happy how this project turned out. Art-wise, this is my favorite project so far, with the PCB having 100% original silkscreen designs with the back paying homage to all my previous projects! 
+
+## how 2 use this
+its a keyboard where you go click clack on it <br/>
+This is a standard 75% keyboard with 4 moddable macro buttons on the side and 2 knobs with switches! Tweak their functions in the firmware <br/>
+By default, the macro buttons and knobs will:
+* Open Snipping Tool
+* Alt + Tab
+* Select All
+* type :3
+* Adjust Volume
+* Adjust Brightness
+
+anyways funky picture time
+## CAD
+
+## PCB
+
+## BOM
 
