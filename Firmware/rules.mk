@@ -1,11 +1,14 @@
-# activate RGB and OLED
-RGBLIGHT_ENABLE = yes
-RGB_MATRIX_ENABLE = no
-
+#oled
 OLED_ENABLE = yes
-OLED_DRIVER = ssd1306
 OLED_TRANSPORT = i2c
+OLED_DRIVER = ssd1306
 
+#rgb
+RGBLIGHT_ENABLE = yes
+WS2812_DRIVER = vendor
 
+# required for rp2040
+LTO_ENABLE = yes
 
-# bwa
+# macros
+SEND_STRING_ENABLE = yes
