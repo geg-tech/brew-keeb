@@ -1,12 +1,16 @@
-#pragma once
+//OLED settings
+#define I2C_DRIVER I2CD1
+#define I2C1_SDA_PIN GP26
+#define I2C1_SCL_PIN GP27
 
-#ifdef RGBLIGHT_ENABLE
-    #define RGBLIGHT_LED_COUNT 8 
+//RGB
+#define WS2812_DI_PIN GP28
+#define RGBLIGHT_LED_COUNT 8
+#define RGBLIGHT_MODE_RAINBOW_MOOD
+#define RGBLIGHT_MODE_RGB_TEST
+#define RGBLIGHT_MODE_TWINKLE
+#define RGBLIGHT_LIMIT_VAL 100
 
-    #define RGBLIGHT_EFFECT_RGB_TEST
-
-    #define RGBLIGHT_LIMIT_VAL 225
-    #define RGBLIGHT_HUE_STEP 10
-    #define RGBLIGHT_SAT_STEP 17
-    #define RGBLIGHT_VAL_STEP 17
-#endif
+//Macros
+#define SENDSTRING_BELL	
+#define BELL_SOUND	
