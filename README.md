@@ -16,15 +16,7 @@ I'm overall very happy how this project turned out. Art-wise, this is my favorit
 
 ## how 2 use this
 its a keyboard where you go click clack on it <br/>
-This is a standard 75% keyboard with 4 moddable macro buttons on the side and 2 knobs with switches! Tweak their functions in the firmware with QMK <br/>
-By default, the macro buttons and knobs will:
-* Open Snipping Tool
-* Alt + Tab
-* Select All
-* type :3
-* Adjust Volume
-* Adjust Brightness
-> note: the switched in the knobs currently aren't mapped to anything
+This is a standard 75% keyboard with 4 moddable macro buttons on the side and 2 knobs with switches! Tweak their functions in the firmware with QMK (located in PCB/keymaps/brewin/keymap.c)<br/>
 
 anyways funky picture time
 ## CAD
