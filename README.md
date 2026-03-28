@@ -1,4 +1,5 @@
 # Brew75
+<img width="2880" height="1018" alt="brew_case_variant_2026-Mar-28_01-47-42PM-000_CustomizedView4642572212" src="https://github.com/user-attachments/assets/3608d582-84dc-45b6-8454-40e70fa15276" /> <br/>
 my dream keyboard!
 
 This is a 75% keyboard, powered with QMK and like 6 months of procrastination lmao <br/>
