@@ -30,3 +30,5 @@ anyways funky picture time
 
 ## BOM
 
+> dedicated to richard tu
+> happy birthday, friend
