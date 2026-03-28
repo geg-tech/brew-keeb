@@ -36,7 +36,7 @@ anyways funky picture time
 <img width="894" height="460" alt="image" src="https://github.com/user-attachments/assets/239cfca0-1f70-4331-881d-00d92b221100" /> <br/>
 
 ## BOM
-| part name                  | quantity         | purpose                                          | Shown Price       | Actual Cost (Tax + Shipping) |   |
+| part name                  | quantity         | purpose                                          | Shown Price       | Actual Cost  |   |
 |----------------------------|------------------|--------------------------------------------------|-------------------|------------------------------|---|
 | Gateron Cherry MX Switches | 82               | Keyswitches that are pressed                     | $8.20             | $8.20                        |   |
 | EC11 Rotary Encoders       | 2                | Rotary knobs for incrementing items, macros      | $1.37             | $0 (Already owned)           |   |
@@ -55,7 +55,7 @@ anyways funky picture time
 | Rotary Encoder Knobs       | 2                | Covers the encoders                              | 3D Printed        | $0 (Will 3D print myself)    |   |
 | #8-32 1/2" Screws          | 6                | Assembles the case and plate                     | $2.22             | $0 (Already Owned)           |   |
 |                            |                  |                                                  |                   |                              |   |
-|                            |                  |                                                  |                   | Actual Total Cost: $82.76    |   |
+|                            |                  |                                                  |                   | Actual Total Cost (tax + shipping): $82.76    |   |
 
 
 
