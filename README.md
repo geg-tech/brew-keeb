@@ -36,6 +36,28 @@ anyways funky picture time
 <img width="894" height="460" alt="image" src="https://github.com/user-attachments/assets/239cfca0-1f70-4331-881d-00d92b221100" /> <br/>
 
 ## BOM
+| part name                  | quantity         | purpose                                          | Shown Price       | Actual Cost (Tax + Shipping) |   |
+|----------------------------|------------------|--------------------------------------------------|-------------------|------------------------------|---|
+| Gateron Cherry MX Switches | 82               | Keyswitches that are pressed                     | $8.20             | $8.20                        |   |
+| EC11 Rotary Encoders       | 2                | Rotary knobs for incrementing items, macros      | $1.37             | $0 (Already owned)           |   |
+| SK6812 LEDs 5050           | 22               | RGB LEDs to light up the keyboard                | $5.70             | $0 (Already owned)           |   |
+| Raspberry Pi Pico          | 1                | Main microcontroller                             | $0.99             | $0 (Already owned)           |   |
+| 1N4148 Diodes              | 85               | Organizes rows and columns for microcontroller   | $1.23             | $1.23                        |   |
+| Case (3D print)            | 1 Full, 4 Pieces | Holds the plate, style                           | 3D Printed        | $0 (Will 3D print myself)    |   |
+| Plate (3D print)           | 1 Full, 2 Pieces | Holds the PCB, gives sound                       | 3D Printed        | $0 (Will 3D print myself)    |   |
+| PCB                        | 1                | Holds components and wires them                  | $40.22            | $40.22                       |   |
+| USB A Female Connectors    | 5                | Connectors for built in USB hub                  | $3.10             | $3.10                        |   |
+| Capacitors                 | 7                | Required for USB hub circuit                     | $2.78             | $2.78                        |   |
+| SL2.1A IC                  | 1                | IC used for USB hub                              | $1.65             | $1.65                        |   |
+| 6.00u Stabilizers          | 1                | Stabilizes the space bar                         | $4.06             | $4.06                        |   |
+| 2.00u Stabilizers          | 4                | Stabilizes both shift keys, enter, and backspace | Included w/ Above | Included w/ Above            |   |
+| 75% Keycaps                | 1 Set            | Covers keyswitches                               | $14.20            | $14.20                       |   |
+| Rotary Encoder Knobs       | 2                | Covers the encoders                              | 3D Printed        | $0 (Will 3D print myself)    |   |
+| #8-32 1/2" Screws          | 6                | Assembles the case and plate                     | $2.22             | $0 (Already Owned)           |   |
+|                            |                  |                                                  |                   |                              |   |
+|                            |                  |                                                  |                   | Actual Total Cost: $82.76    |   |
+
+
 
 > dedicated to richard tu <br/>
 > happy birthday, friend.
