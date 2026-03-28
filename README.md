@@ -21,7 +21,12 @@ This is a standard 75% keyboard with 4 moddable macro buttons on the side and 2 
 anyways funky picture time
 ## CAD
 
-## PCB
+## PCB + Schematics
+<img width="1262" height="646" alt="image" src="https://github.com/user-attachments/assets/152eda34-c84f-4e1b-a323-e8bd887ec67c" /> <br/>
+<img width="1013" height="514" alt="image" src="https://github.com/user-attachments/assets/bbf0c5b5-07e9-4062-b97d-45cc0ce18356" /> <br/>
+<img width="931" height="488" alt="image" src="https://github.com/user-attachments/assets/ab53183c-67b4-43ef-b34a-5a0a6b388fe8" /> <br/>
+<img width="945" height="496" alt="image" src="https://github.com/user-attachments/assets/bd592314-e69d-438a-9cba-c0288ba08c02" /> <br/>
+<img width="894" height="460" alt="image" src="https://github.com/user-attachments/assets/239cfca0-1f70-4331-881d-00d92b221100" /> <br/>
 
 ## BOM
 
