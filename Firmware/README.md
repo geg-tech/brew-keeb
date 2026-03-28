@@ -2,6 +2,6 @@ wip! this firmware is currently a _very_ rough draft and is a proof of concept f
 
 currently features:
 * full keyboard support (no macros yet)
-* knob support
+* knob support (volume + brightness)
 * OLED text
 * rainbow mood lighting
