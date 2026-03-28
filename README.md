@@ -25,6 +25,8 @@ anyways funky picture time
 <img width="1024" height="768" alt="brew render 1" src="https://github.com/user-attachments/assets/1b6d57ec-5fa7-4bf5-87c8-75282b70b62b" /> <br/>
 <img width="1024" height="768" alt="brew render 4" src="https://github.com/user-attachments/assets/9b1b0010-141f-4d14-878b-9b569f0a0626" /> <br/>
 <img width="1004" height="545" alt="image" src="https://github.com/user-attachments/assets/4e83c067-0b15-4be1-abde-6e0ec3972302" /> <br/>
+<img width="961" height="551" alt="image" src="https://github.com/user-attachments/assets/47275db1-fd38-4804-be76-7a869912371e" /> <br/>
+
 
 ## PCB + Schematics
 <img width="1262" height="646" alt="image" src="https://github.com/user-attachments/assets/152eda34-c84f-4e1b-a323-e8bd887ec67c" /> <br/>
