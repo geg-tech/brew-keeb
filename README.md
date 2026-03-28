@@ -20,6 +20,10 @@ This is a standard 75% keyboard with 4 moddable macro buttons on the side and 2 
 
 anyways funky picture time
 ## CAD
+<img width="2880" height="1018" alt="brew redner 7" src="https://github.com/user-attachments/assets/16729267-3dbc-47b6-9bab-bf7f422a3c22" /> <br/>
+<img width="1024" height="768" alt="brew render 1" src="https://github.com/user-attachments/assets/1b6d57ec-5fa7-4bf5-87c8-75282b70b62b" /> <br/>
+<img width="1024" height="768" alt="brew render 4" src="https://github.com/user-attachments/assets/9b1b0010-141f-4d14-878b-9b569f0a0626" /> <br/>
+<img width="1004" height="545" alt="image" src="https://github.com/user-attachments/assets/4e83c067-0b15-4be1-abde-6e0ec3972302" /> <br/>
 
 ## PCB + Schematics
 <img width="1262" height="646" alt="image" src="https://github.com/user-attachments/assets/152eda34-c84f-4e1b-a323-e8bd887ec67c" /> <br/>
