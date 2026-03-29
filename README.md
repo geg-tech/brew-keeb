@@ -22,7 +22,8 @@ You can also use the usb hub, loctaed on the top of the keyboard next to the mic
 
 anyways funky picture time
 ## CAD
-<img width="2880" height="1306" alt="blah blah brew_case_variant_2026-Mar-29_04-31-40PM-000_CustomizedView17610038406" src="https://github.com/user-attachments/assets/a34a76bf-1123-4dd8-ace9-cdc2005817ce" /> <br/>
+<img width="2880" height="1016" alt="blah blah brew_case_variant_2026-Mar-29_05-58-51PM-000_CustomizedView23646689068" src="https://github.com/user-attachments/assets/f22cf114-f36e-4f23-b65f-a884f12eb882" />
+
 <img width="2880" height="1306" alt="blah blah brew_case_variant_2026-Mar-29_05-25-08PM-000_CustomizedView47794534940" src="https://github.com/user-attachments/assets/53672c56-aa2a-4860-94ad-2c4d81dfa646" /> <br/>
 <img width="2880" height="1306" alt="blah blah brew_case_variant_2026-Mar-29_04-30-02PM-000_CustomizedView20381174148" src="https://github.com/user-attachments/assets/8de1b715-1815-4305-9cfe-5a613ec18dbd" /> <br/>
 <img width="1084" height="551" alt="image" src="https://github.com/user-attachments/assets/3938286d-fe2d-4ded-ac85-4fabe05553c9" /> <br/>
