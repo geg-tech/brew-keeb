@@ -1,7 +1,8 @@
 # Brew75
 <img width="2880" height="1306" alt="blah blah brew_case_variant_2026-Mar-29_04-31-40PM-000_CustomizedView17610038406" src="https://github.com/user-attachments/assets/607ac801-df65-48e3-8ca3-f5d9bf03c90a" /> <br/>
 my dream keyboard! <br/>
-> quick note: my updated journal is in brew75-journal.md and not in JOURNAL.md! idk how but the blueprint bot didnt update the file for like 5 months straight lmao
+> quick note: my updated journal is in brew75-journal.md and not in JOURNAL.md! <br/>
+> idk how but the blueprint bot didnt update the file for like 5 months straight lmao <br/>
 
 This is a 75% keyboard, powered with QMK and like 6 months of procrastination lmao <br/>
 I started this project to create my dream keyboard back in the start of Blueprint, and I finally get to finish off this project after months of school work and robotics work getting in the way. After getting experience from my other keyboard-related projects, I wanted to tackle on an _actual_ keyboard project that I could customize to my liking and use as my daily driver. Although I easy could've bought some off the shelf keyboard, buying a mechanical keyboard for $80 dollars would very much bankrupt me <br/>
