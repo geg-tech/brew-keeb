@@ -22,9 +22,9 @@ You can also use the usb hub, loctaed on the top of the keyboard next to the mic
 
 anyways funky picture time
 ## CAD
-<img width="2880" height="1016" alt="blah blah brew_case_variant_2026-Mar-29_05-58-51PM-000_CustomizedView23646689068" src="https://github.com/user-attachments/assets/f22cf114-f36e-4f23-b65f-a884f12eb882" />
-
+<img width="2880" height="1016" alt=" blah blh 0af0a9d3-2f9b-4d00-926a-b091d3ac0b0e" src="https://github.com/user-attachments/assets/c57697a7-ef4e-4be5-9e4c-f1bb38041028" /> <br/>
 <img width="2880" height="1306" alt="blah blah brew_case_variant_2026-Mar-29_05-25-08PM-000_CustomizedView47794534940" src="https://github.com/user-attachments/assets/53672c56-aa2a-4860-94ad-2c4d81dfa646" /> <br/>
+<img width="2880" height="1016" alt="blah blah brew_case_variant_2026-Mar-29_05-58-51PM-000_CustomizedView23646689068" src="https://github.com/user-attachments/assets/f22cf114-f36e-4f23-b65f-a884f12eb882" /> <br/>
 <img width="2880" height="1306" alt="blah blah brew_case_variant_2026-Mar-29_04-30-02PM-000_CustomizedView20381174148" src="https://github.com/user-attachments/assets/8de1b715-1815-4305-9cfe-5a613ec18dbd" /> <br/>
 <img width="1084" height="551" alt="image" src="https://github.com/user-attachments/assets/3938286d-fe2d-4ded-ac85-4fabe05553c9" /> <br/>
 <img width="949" height="529" alt="image" src="https://github.com/user-attachments/assets/1c38ca21-39f3-4d6b-8583-07f6b43fae48" /> <br/>
