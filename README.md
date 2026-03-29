@@ -18,6 +18,7 @@ I'm overall very happy how this project turned out. Art-wise, this is my favorit
 ## how 2 use this
 its a keyboard where you go click clack on it <br/>
 This is a standard 75% keyboard with 4 moddable macro buttons on the side and 2 knobs with switches! Tweak their functions in the firmware with QMK (located in PCB/keymaps/brewin/keymap.c)<br/>
+You can also use the usb hub, loctaed on the top of the keyboard next to the microcontroller! plug your pc into the micro USB slot and add any accessories to the other usb A ports! <br/>
 
 anyways funky picture time
 ## CAD
