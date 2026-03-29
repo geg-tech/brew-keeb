@@ -1,5 +1,5 @@
 # Brew75
-<img width="2880" height="1018" alt="brew_case_variant_2026-Mar-28_01-47-42PM-000_CustomizedView4642572212" src="https://github.com/user-attachments/assets/3608d582-84dc-45b6-8454-40e70fa15276" /> <br/>
+<img width="2880" height="1306" alt="blah blah brew_case_variant_2026-Mar-29_04-31-40PM-000_CustomizedView17610038406" src="https://github.com/user-attachments/assets/607ac801-df65-48e3-8ca3-f5d9bf03c90a" /> <br/>
 my dream keyboard!
 
 This is a 75% keyboard, powered with QMK and like 6 months of procrastination lmao <br/>
@@ -22,9 +22,9 @@ You can also use the usb hub, loctaed on the top of the keyboard next to the mic
 
 anyways funky picture time
 ## CAD
-<img width="2880" height="1018" alt="brew redner 7" src="https://github.com/user-attachments/assets/16729267-3dbc-47b6-9bab-bf7f422a3c22" /> <br/>
-<img width="1024" height="768" alt="brew render 1" src="https://github.com/user-attachments/assets/1b6d57ec-5fa7-4bf5-87c8-75282b70b62b" /> <br/>
-<img width="1024" height="768" alt="brew render 4" src="https://github.com/user-attachments/assets/9b1b0010-141f-4d14-878b-9b569f0a0626" /> <br/>
+<img width="2880" height="1306" alt="blah blah brew_case_variant_2026-Mar-29_04-31-40PM-000_CustomizedView17610038406" src="https://github.com/user-attachments/assets/a34a76bf-1123-4dd8-ace9-cdc2005817ce" /> <br/>
+<img width="2880" height="1306" alt="blah blah brew_case_variant_2026-Mar-29_05-25-08PM-000_CustomizedView47794534940" src="https://github.com/user-attachments/assets/53672c56-aa2a-4860-94ad-2c4d81dfa646" /> <br/>
+<img width="2880" height="1306" alt="blah blah brew_case_variant_2026-Mar-29_04-30-02PM-000_CustomizedView20381174148" src="https://github.com/user-attachments/assets/8de1b715-1815-4305-9cfe-5a613ec18dbd" /> <br/>
 <img width="1084" height="551" alt="image" src="https://github.com/user-attachments/assets/3938286d-fe2d-4ded-ac85-4fabe05553c9" /> <br/>
 <img width="949" height="529" alt="image" src="https://github.com/user-attachments/assets/1c38ca21-39f3-4d6b-8583-07f6b43fae48" /> <br/>
 
