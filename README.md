@@ -32,11 +32,11 @@ anyways funky picture time
 <img width="949" height="529" alt="image" src="https://github.com/user-attachments/assets/1c38ca21-39f3-4d6b-8583-07f6b43fae48" /> <br/>
 
 ## PCB + Schematics
-<img width="1183" height="614" alt="image" src="https://github.com/user-attachments/assets/913c59ff-10c7-4f09-8c90-fd7f6bcb35ee" /> <br/>
-<img width="1029" height="527" alt="image" src="https://github.com/user-attachments/assets/7b15fad0-de2e-40b8-8eb5-8d81bdb0cb3e" /> <br/>
-<img width="1109" height="527" alt="image" src="https://github.com/user-attachments/assets/6cbfd6cc-2cfa-4c31-96f0-01fc3776aeee" /> <br/>
-<img width="1139" height="557" alt="image" src="https://github.com/user-attachments/assets/cf18447a-6355-4269-850c-77c5231eea65" /> <br/>
-<img width="1126" height="526" alt="image" src="https://github.com/user-attachments/assets/fc599d14-1d8e-46d0-9409-7499796ea01f" /> <br/>
+<img width="1307" height="678" alt="schematic" src="https://github.com/user-attachments/assets/140645d3-d999-4ff1-9095-4a39ac593294" /> <br/>
+<img width="1007" height="496" alt="pcb designer" src="https://github.com/user-attachments/assets/20cd2457-fb09-4763-84fd-d69bcb7bc50f" /> <br/>
+<img width="1109" height="527" alt="aura 3d model pic" src="https://github.com/user-attachments/assets/6cbfd6cc-2cfa-4c31-96f0-01fc3776aeee" /> <br/>
+<img width="1139" height="557" alt="aura 3d model pic 2" src="https://github.com/user-attachments/assets/cf18447a-6355-4269-850c-77c5231eea65" /> <br/>
+<img width="1126" height="526" alt="aura 3d model pic 2" src="https://github.com/user-attachments/assets/fc599d14-1d8e-46d0-9409-7499796ea01f" /> <br/>
 
 ## BOM
 | part name                  | quantity         | purpose                                          | Shown Price       | Actual Cost (Tax + Shipping) | link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
