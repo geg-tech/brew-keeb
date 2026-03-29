@@ -24,16 +24,15 @@ anyways funky picture time
 <img width="2880" height="1018" alt="brew redner 7" src="https://github.com/user-attachments/assets/16729267-3dbc-47b6-9bab-bf7f422a3c22" /> <br/>
 <img width="1024" height="768" alt="brew render 1" src="https://github.com/user-attachments/assets/1b6d57ec-5fa7-4bf5-87c8-75282b70b62b" /> <br/>
 <img width="1024" height="768" alt="brew render 4" src="https://github.com/user-attachments/assets/9b1b0010-141f-4d14-878b-9b569f0a0626" /> <br/>
-<img width="1004" height="545" alt="image" src="https://github.com/user-attachments/assets/4e83c067-0b15-4be1-abde-6e0ec3972302" /> <br/>
-<img width="961" height="551" alt="image" src="https://github.com/user-attachments/assets/47275db1-fd38-4804-be76-7a869912371e" /> <br/>
-
+<img width="1084" height="551" alt="image" src="https://github.com/user-attachments/assets/3938286d-fe2d-4ded-ac85-4fabe05553c9" /> <br/>
+<img width="949" height="529" alt="image" src="https://github.com/user-attachments/assets/1c38ca21-39f3-4d6b-8583-07f6b43fae48" /> <br/>
 
 ## PCB + Schematics
-<img width="1262" height="646" alt="image" src="https://github.com/user-attachments/assets/152eda34-c84f-4e1b-a323-e8bd887ec67c" /> <br/>
-<img width="1013" height="514" alt="image" src="https://github.com/user-attachments/assets/bbf0c5b5-07e9-4062-b97d-45cc0ce18356" /> <br/>
-<img width="931" height="488" alt="image" src="https://github.com/user-attachments/assets/ab53183c-67b4-43ef-b34a-5a0a6b388fe8" /> <br/>
-<img width="945" height="496" alt="image" src="https://github.com/user-attachments/assets/bd592314-e69d-438a-9cba-c0288ba08c02" /> <br/>
-<img width="894" height="460" alt="image" src="https://github.com/user-attachments/assets/239cfca0-1f70-4331-881d-00d92b221100" /> <br/>
+<img width="1183" height="614" alt="image" src="https://github.com/user-attachments/assets/913c59ff-10c7-4f09-8c90-fd7f6bcb35ee" /> <br/>
+<img width="1029" height="527" alt="image" src="https://github.com/user-attachments/assets/7b15fad0-de2e-40b8-8eb5-8d81bdb0cb3e" /> <br/>
+<img width="1109" height="527" alt="image" src="https://github.com/user-attachments/assets/6cbfd6cc-2cfa-4c31-96f0-01fc3776aeee" /> <br/>
+<img width="1139" height="557" alt="image" src="https://github.com/user-attachments/assets/cf18447a-6355-4269-850c-77c5231eea65" /> <br/>
+<img width="1126" height="526" alt="image" src="https://github.com/user-attachments/assets/fc599d14-1d8e-46d0-9409-7499796ea01f" /> <br/>
 
 ## BOM
 | part name                  | quantity         | purpose                                          | Shown Price       | Actual Cost (Tax + Shipping) | link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
