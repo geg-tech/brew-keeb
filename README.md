@@ -11,7 +11,7 @@ This keyboard contains:
 * glowy RGB through the top and underglow!
 * an OLED screen for showing statistics and cool graphics!
 * integrated USB hub, supporting 4 connecting devices!
-* awesome sauce silkscreen!
+* awesome custom silkscreen!
 
 I'm overall very happy how this project turned out. Art-wise, this is my favorite project so far, with the PCB having 100% original silkscreen designs with the back paying homage to all my previous projects! 
 
