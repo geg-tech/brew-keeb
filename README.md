@@ -1,5 +1,6 @@
 # Brew75
 <img width="2880" height="1306" alt="blah blah brew_case_variant_2026-Mar-29_04-31-40PM-000_CustomizedView17610038406" src="https://github.com/user-attachments/assets/607ac801-df65-48e3-8ca3-f5d9bf03c90a" /> <br/>
+> made as part of Hack Club's Blueprint! [Check out my full journal and design process here!](https://blueprint.hackclub.com/projects/52) <br/>
 my dream keyboard! <br/>
 
 This is a 75% keyboard, powered with QMK and like 6 months of procrastination lmao <br/>
